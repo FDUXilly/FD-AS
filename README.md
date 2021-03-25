@@ -2,7 +2,7 @@
 
 FD-AS dataset is collected from 2,000 subjects. All subjects are chinese people from different (four) ethnic groups (e.i., Han, Miao, Zhuang, and Hui). 
 
-![image]()
+![image](https://github.com/FDUXilly/FD-AS/blob/main/label.png)
 
 
 # Terms & Conditions
